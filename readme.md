@@ -23,6 +23,3 @@
 <p align="center">
 <img src="src/assets/mockup-mobile.png">
 </p>
-
-<br>
-<p>Link funcional do projeto: <a href="https://vitagema.netlify.app/" target="_blank">Clique aqui</a></p>
